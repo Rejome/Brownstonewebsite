@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<logins>
+  <login>
+    <name>jerome</name>
+    <password>5f4dcc3b5aa765d61d8327deb882cf99</password>
+    <level>admin</level>
+    <access>127</access>
+  </login>
+  <login>
+    <name>brian</name>
+    <password>5f4dcc3b5aa765d61d8327deb882cf99</password>
+    <level>user</level>
+    <access>127</access>
+  </login>
+</logins>

@@ -1,0 +1,202 @@
+/*Bootstrap edit*/
+.navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {
+	max-height: 392px !important;
+}
+.navbar, .navbar-header {
+  min-height: 76px !important;
+}
+/*@media screen and (min-width: 768px) {
+  .jumbotron {
+    padding: 80px 0 !important;
+  }
+}
+.jumbotron {
+  padding: 80px 15px !important;
+}*/
+/*My Style*/
+.res-main-links {
+	margin-top: 14px;
+}
+#company-logo {
+	height: 49px;
+}
+.carousel .carousel-control { visibility: hidden; }
+.carousel:hover .carousel-control { visibility: visible; }
+
+.onesidedropshadow {
+	-webkit-box-shadow: 2.5px 2.5px 10px black;
+	-moz-box-shadow: 2.5px 2.5px 10px black;
+	box-shadow: 2.5px 2.5px 10px black;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	display:inline-block;
+}
+.row-centered {
+	-webkit-text-align:center;
+	-moz-box-text-align:center;
+	text-align:center;
+}
+.col-centered {
+    -moz-display:inline-block;
+	-webkit-display:inline-block;
+    display:inline-block;
+    -webkit-float:none;
+   -moz-float:none;
+    float:none;
+    /* reset the text-align */
+    -moz-text-align:left;
+   -webkit-text-align:left;
+    text-align:left;
+    /* inline-block space fix */
+    -moz-margin-right:-4px;
+    -webkit-margin-right:-4px;
+    margin-right:-4px;
+}
+
+@media screen and (max-width: 768px) {
+    .lead {
+        font-size:20px;
+    }
+}
+ 
+@media screen and (max-width: 568px) {
+    .lead {
+        font-size:0.8em;
+    }
+}
+ 
+@media screen and (max-width: 768px) {
+    .col-centered {
+		-moz-margin-right:0px;
+		-webkit-margin-right:0px;
+		margin-right:0px;
+    }
+}
+
+#facebook{
+	margin-top:30px;
+	float:left;
+}
+.facebook_block{
+	background-color:#9FC0FF;
+	border:2px solid #3B5998;
+	float:left;
+	height:30px;
+	margin-left:5px;
+	width:8px;
+        opacity:0.1;
+	-webkit-transform:scale(0.7);
+	-webkit-animation-name: facebook;
+ 	-webkit-animation-duration: 1s;
+ 	-webkit-animation-iteration-count: infinite;
+ 	-webkit-animation-direction: linear;
+	
+}
+#block_1{
+ 	-webkit-animation-delay: .3s;
+}
+ 
+#block_2{
+ 	-webkit-animation-delay: .4s;
+}
+
+#block_3{
+ 	-webkit-animation-delay: .5s;
+}
+
+@-webkit-keyframes facebook{
+	0%{-webkit-transform: scale(1.2);opacity:1;}
+	100%{-webkit-transform: scale(0.7);opacity:0.1;}
+}
+
+.prod_img {
+	margin-left:15px; 
+	margin-top:7px;
+	margin-bottom:7px;
+	width:150px;
+	height:150px;
+}
+
+.type_div {
+	width:190px; 
+	float:left; 
+	margin-left:35px
+}
+
+.small_contact {
+  background-color: white;
+  display: inline-block;
+  width: 286px;
+  height: 56px;
+  margin-top: 11px;
+  margin-bottom: 5px;
+  margin-lefT: 43px;
+}
+
+.small_contact label {
+  margin-top: 8px;
+  margin-left: 3px;
+}
+
+.product_view {  
+	text-align: left;
+	border-radius: 4px;
+	border: 1px solid #ddd;
+	padding: 4px;
+	transition: border .2s ease-in-out;
+	box-sizing: border-box;
+}
+
+.prod-nav {
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+.prod-nav img{
+	margin-left:5px;
+	margin-right:5px;
+}
+
+.mini-submenu{
+  display:none;  
+  background-color: rgba(0, 0, 0, 0);  
+  border: 1px solid rgba(0, 0, 0, 0.9);
+  border-radius: 4px;
+  padding: 9px;  
+  /*position: relative;*/
+  width: 42px;
+
+}
+
+.mini-submenu:hover{
+  cursor: pointer;
+}
+
+.mini-submenu .icon-bar {
+  border-radius: 1px;
+  display: block;
+  height: 2px;
+  width: 22px;
+  margin-top: 3px;
+}
+
+.mini-submenu .icon-bar {
+  background-color: #000;
+}
+
+#slide-submenu{
+  background: rgba(0, 0, 0, 0.45);
+  display: inline-block;
+  padding: 0 8px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.carousel-caption a{
+  background-color: white;
+  opacity: 1.5;
+  color: black;
+  font-weight: bold;
+  font-size: 12pt;
+}

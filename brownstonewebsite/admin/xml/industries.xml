@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<industries>
+  <industry>
+    <id>0</id>
+    <title>Academe</title>
+    <img>0</img>
+  </industry>
+  <industry>
+    <id>1</id>
+    <title>Cement</title>
+    <img>1</img>
+  </industry>
+  <industry>
+    <id>2</id>
+    <title>Feeds</title>
+    <img>2</img>
+  </industry>
+  <industry>
+    <id>3</id>
+    <title>Food &amp; Beverage</title>
+    <img>3</img>
+  </industry>
+  <industry>
+    <id>4</id>
+    <title>Gold / Pawnshop</title>
+    <img>4</img>
+  </industry>
+  <industry>
+    <id>5</id>
+    <title>Manufacturing</title>
+    <img>5</img>
+  </industry>
+  <industry>
+    <id>6</id>
+    <title>Medical / Health Care</title>
+    <img>6</img>
+  </industry>
+  <industry>
+    <id>7</id>
+    <title>Metal</title>
+    <img>7</img>
+  </industry>
+  <industry>
+    <id>8</id>
+    <title>Mining</title>
+    <img>8</img>
+  </industry>
+  <industry>
+    <id>9</id>
+    <title>Packaging Plastics</title>
+    <img>9</img>
+  </industry>
+  <industry>
+    <id>10</id>
+    <title>Petroleum / Petrochemical</title>
+    <img>10</img>
+  </industry>
+  <industry>
+    <id>11</id>
+    <title>Pharmaceutical</title>
+    <img>11</img>
+  </industry>
+  <industry>
+    <id>12</id>
+    <title>Power &amp; Energy</title>
+    <img>12</img>
+  </industry>
+  <industry>
+    <id>13</id>
+    <title>Semiconductors</title>
+    <img>13</img>
+  </industry>
+  <industry>
+    <id>14</id>
+    <title>Testing Lab</title>
+    <img>14</img>
+  </industry>
+  <industry>
+    <id>15</id>
+    <title>Water</title>
+    <img>15</img>
+  </industry>
+</industries>

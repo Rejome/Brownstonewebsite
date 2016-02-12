@@ -1,0 +1,268 @@
+<newsevents>
+	<newsevent>
+		<id>0</id>
+		<img>b</img>
+		<type>event</type>
+		<title>Brownstone Seminar</title>
+		<date>February 04-06, 2014</date>
+		<realDate>2014/02/04</realDate>
+		<location>SMX Convention Center - Davao City</location>
+		<description>Brownstone Asia-Tech inc. will be SHOWCASING its Products at the 35th Philippine Association of Water Districts (PAWD) National Convention.</description>
+	</newsevent>
+	<newsevent>
+		<id>1</id>
+		<img>hygiena</img>
+		<type>event</type>
+		<title>Hygiena Seminar</title>
+		<date>March 19, 2014</date>
+		<realDate>03/19/2014</realDate>
+		<location>Raja Ballroom 2nd Floor - The Legend Villas Mandaluyong City</location>
+	</newsevent>
+	<newsevent>
+		<id>2</id>
+		<img>phil</img>
+		<type>event</type>
+		<title>Phil. Beauty Show 2014</title>
+		<date>June 18, - 20, 2014</date>
+		<realDate>2014/06/18</realDate>
+		<location>Booth A41 - SMX Convention Center</location>
+		<readmore>../../img/newsandevents/PHIL BEAUTY CATALOGUE.pdf</readmore>
+	</newsevent>
+	<newsevent>
+		<id>3</id>
+		<img>mining</img>
+		<type>event</type>
+		<title>Mining Philippines Conference &amp; Exhibition 2014</title>
+		<date>September 16-18, 2014</date>
+		<realDate>2014/09/16</realDate>
+		<location>SOFITEL PHILIPPINE PLAZA MANILA</location>
+		<readmore>../../img/newsandevents/MININGPHILIPPINES2014.jpg</readmore>
+		<featuring><im><id>0</id><title>Idexx Laboratories, Inc.</title></im></featuring>
+		<description>Witness the actial analysis of samples for Mining, Alloy and Precious Metals using our Portable Analytical Instrument - Niton XRF Analyzers. BRING YOUR OWN SAMPLES</description>
+	</newsevent>
+	<newsevent>
+		<id>4</id>
+		<img>water</img>
+		<type>event</type>
+		<title>Water Technology Philippines 2014</title>
+		<date>September 25-27, 2014</date>
+		<realDate>2014/09/25</realDate>
+		<location>SMX Convention Center, Mall of Asia Complex - Pasay City Booth No. : F16</location>
+		<readmore>../../img/newsandevents/MININGPHILIPPINES2014.jpg</readmore>
+		<featuring><im><id>14</id><title>Idexx Laboratories, Inc.</title></im><im><id>15</id><title>Hach</title></im><im><id>16</id><title>Trace2o</title></im><im><id>17</id><title>Myron L® Company</title></im><im><id>18</id><title>Hygiena</title></im></featuring>
+		<description>Come and visit us and get a hands-on experience on Water Testing Equipment, Kits and Consumables for Coliform / E.Coli and other Water Test Parameters</description>
+	</newsevent>
+	<newsevent>
+		<id>5</id>
+		<img>agri</img>
+		<type>event</type>
+		<title>Agrilink/Foodlink/Aqualink 2014</title>
+		<date>October 09-11, 2014</date>
+		<realDate>2014/10/09</realDate>
+		<location>WORLD TRADE CENTER - Pasay City</location>
+		<readmore>http://www.agrilink.org/</readmore>
+	</newsevent>
+	<newsevent>
+		<id>7</id>
+		<img>b</img>
+		<type>event</type>
+		<title>Disaster Preparedness and Contingency (DIPCON) EXPO 2014</title>
+		<date>October 15-17, 2014</date>
+		<realDate>2014/10/17</realDate>
+		<location>World Trade Center - Visit us at Booth No. 20 </location>
+		<description>Equipment on Display : Thermo Scientific Safety and Security RAMAN Spectrometer "First Defender RMX". Other Highlighted Equipment : NETBIO ANDE Rapid DNA Analysis Sytem </description>
+		<featuring><im><id>5</id><title>Thermo Scientific Safety and Security</title></im><im><id>12</id><title>NetBio</title></im></featuring>
+	</newsevent>
+	<newsevent>
+		<id>8</id>
+		<img>opsi</img>
+		<type>event</type>
+		<title>Trade-In Offer!</title>
+		<date>Offer valid until 31st of December 2014</date>
+		<realDate>2014/12/31</realDate>
+		<location>.</location>
+		<readmore>../../img/newsandevents/Trade In Campaign AD.jpg</readmore>
+		<description>Special Trade-In offer for customers using Kjeldahl. Save Thousands of Dollars!. Offer valid until 31st of December 2014</description>
+		<featuring><im><id>7</id><title>OPSIS LiquidLine</title></im></featuring>
+	</newsevent>
+	<newsevent>
+		<id>9</id>
+		<img>kapisanang</img>
+		<type>event</type>
+		<title>Kapisanang Kimika ng Pilipinas</title>
+		<date>November 26 - 27, 2014 </date>
+		<realDate>2014/11/27</realDate>
+		<location>Umali Hall, SEARCA, University of the Philippines,Los Baños, Laguna</location>
+		<description>Southern Tagalog Chapter - 43rd Annual Convention. Theme  :  "Bolstering Chemistry Niche in the K to 12 Program"  </description>
+	</newsevent>
+	<newsevent>
+		<id>10</id>
+		<img>broker</img>
+		<type>event</type>
+		<title>Chamber of Pawnbrokers of the Philippines, Inc.  </title>
+		<date>December 07, 2014 </date>
+		<realDate>2014/11/07</realDate>
+		<location>Quezon City Sports Club, Quezon City </location>
+		<readmore>../../img/newsandevents/NITON TARP . FOR GOLD ANALYSIS.jpg</readmore>
+		<description>.</description>
+	</newsevent>
+	<newsevent>
+		<id>11</id>
+		<img>pwad</img>
+		<type>event</type>
+		<title>PHILIPPINE ASSOCIATION OF WATER DISTRICTS (PWAD) Convention</title>
+		<date>February 04-05, 2015</date>
+		<realDate>2015/02/05</realDate>
+		<location>WATERFRONT HOTEL – Lahug, Cebu City. Booth No. : 49 </location>
+		<featuring><im><id>14</id><title>Idexx Laboratories, Inc.</title></im><im><id>15</id><title>Hach</title></im><im><id>16</id><title>Trace2o</title></im><im><id>17</id><title>Myron L® Company</title></im><im><id>18</id><title>Hygiena</title></im></featuring>
+		<description>Brownstone Asia-Tech Inc. will be showcasing its Products in the coming conventions for 2015 : PHILIPPINE ASSOCIATION OF WATER DISTRICTS (PWAD) Convention</description>
+	</newsevent>
+	<newsevent>
+		<id>12</id>
+		<img>waterPhilippines2015expo</img>
+		<type>event</type>
+		<title>Water Philippines 2015 Expo</title>
+		<date>March 23 - 25, 2015</date>
+		<realDate>2015/03/25</realDate>
+		<location>SMX Convention Centre, Manila. Booth No. : P8 </location>
+		<featuring><im><id>14</id><title>Idexx Laboratories, Inc.</title></im><im><id>15</id><title>Hach</title></im><im><id>16</id><title>Trace2o</title></im><im><id>17</id><title>Myron L® Company</title></im><im><id>18</id><title>Hygiena</title></im></featuring>
+		<description>Get a hands-on experience on Water Testing Equipment, Kits and Consumables for Coliform / E. Coli and other Water Test Parameters.</description>
+	</newsevent>
+	<newsevent>
+		<id>13</id>
+		<img>30thPhilippineChemistryCongress</img>
+		<type>event</type>
+		<title>30th Philippine Chemistry Congress - ASEAN Chemistry in Resonance</title>
+		<date>April 15 - 17, 2015</date>
+		<realDate>2015/04/17</realDate>
+		<location>Ateneo de Davao University, Davao City. Booth No. : 04</location>
+		<description>You can visit http://www.icp.org.ph/30pcc/ for more information.</description>
+		<readmore>../../img/newsandevents/PhilippineChemistryCongress.jpg</readmore>
+	</newsevent>
+	<newsevent>
+		<id>14</id>
+		<img>livestock2015PhilippinesExpo</img>
+		<type>event</type>
+		<title>LIVESTOCK 2015 PHILIPPINES EXPO</title>
+		<date>June 24-25, 2015</date>
+		<realDate>2015/03/25</realDate>
+		<location>SMX Convention Centre, Manila. Booth No. : P7</location>
+		<featuring><im><id>8</id><title>Unity Scientific</title></im><im><id>7</id><title>OPSIS LiquidLINE</title></im><im><id>9</id><title>CDR</title></im><im><id>11</id><title>Milkotester Ltd.</title></im><im><id>18</id><title>Hygiena</title></im></featuring>
+		<description>You can visit http://www.livestockphilippines.com/ for more information.</description>
+	</newsevent>
+	<newsevent>
+		<id>15</id>
+		<img>piche</img>
+		<type>event</type>
+		<title>PHILIPPINE INSTITUTE OF CHEMICAL ENGINEER (PICHE)</title>
+		<date>Ferbruary 18-21, 2015</date>
+		<realDate>2015/02/21</realDate>
+		<location>Legend Hotel, Puerto Princessa, Palawan Philippines. Booth No. : 49 </location>
+		<description>76th PIChe National Convention. "Strengthening Chemical Engineering Towards One ASEAN Community"</description>
+	</newsevent>
+	<newsevent>
+		<id>16</id>
+		<img>rmx</img>
+		<type>event</type>
+		<title>First Defender RMX, FTIR &amp; Gemini : Handheld Integrated FTIR &amp; Raman Systems</title>
+		<date>April 21, 2015</date>
+		<realDate>2015/04/21</realDate>
+		<location>7th floor Bureau of Fire and Protection-National Headquarters Aghan Road, Brgy. Bagong Pagasa, Diliman, Quezon City</location>
+		<description>A Workshop on Chemical and Explosives</description>
+	</newsevent>
+	<newsevent>
+		<id>17</id>
+		<img>b</img>
+		<type>event</type>
+		<title>Philippine Power Plant Chemistry Management Association(P3CHEMA)</title>
+		<date>May 28, 2015</date>
+		<realDate>2015/05/28</realDate>
+		<location>New World Manila Bay Hotel-Manila</location>
+		<description>For more information. Please email us @ batinc@pldtdsl.net </description>
+	</newsevent>
+	<newsevent>
+		<id>18</id>
+		<img>b</img>
+		<type>event</type>
+		<title>Mindanao Association of Mining Engineers, Inc.</title>
+		<date>June 11-13, 2015</date>
+		<realDate>2015/06/13</realDate>
+		<location>Waterfront Insular Hotel - Davao City</location>
+		<description>For more information. Please email us @ batinc@pldtdsl.net </description>
+	</newsevent>
+	<newsevent>
+		<id>19</id>
+		<img>livestock2015</img>
+		<type>event</type>
+		<title>LIVESTOCK 2015 PHILIPPINES EXPO</title>
+		<date> June 24-26, 2015 </date>
+		<realDate>2015/06/26</realDate>
+		<location>SMX Convention Center</location>
+		<description>Livestock Philippines 2015 Conference. The 2015 conference will carry the theme "Food Safety from Farm to Shelf". It will present topics that will track the flow of animals as food from the raising of livestock to the processing stage for commercial or residential use.</description>
+	</newsevent>
+	<newsevent>
+		<id>20</id>
+		<img>backtoschool</img>
+		<type>event</type>
+		<title>Liquid Chromatography and Mass Spectrometry Seminar</title>
+		<date>September 29, 2015 </date>
+		<realDate>2015/09/29</realDate>
+		<location>Richmonde Hotel Ortigas, Sequoia Redwood Rm, 3rd Floor, San Miguel Ave, Pasig City</location>
+		<readmore>../../img/newsandevents/backtoschool.pdf</readmore>
+	</newsevent>
+	<newsevent>
+		<id>21</id>
+		<img>backtoschool</img>
+		<type>event</type>
+		<title>Liquid Chromatography and Mass Spectrometry Seminar</title>
+		<date>October 1, 2015 </date>
+		<realDate>2015/10/01</realDate>
+		<location>Richmonde Hotel Ortigas, Sequoia Redwood Rm, 3rd Floor, San Miguel Ave, Pasig City</location>
+		<readmore>../../img/newsandevents/backtoschool2.pdf</readmore>
+	</newsevent>
+	<newsevent>
+		<id>22</id>
+		<img>waterqualitysymposium</img>
+		<type>event</type>
+		<title>Water Quality Symposium</title>
+		<date>October 13-14, 2015 </date>
+		<realDate>2015/10/14</realDate>
+		<location>Richmonde Hotel Ortigas, Sequoia Redwood Rm, 3rd Floor, San Miguel Ave, Pasig City</location>
+	</newsevent>
+	<newsevent>
+		<id>23</id>
+		<img>waterqualitysymposium</img>
+		<type>event</type>
+		<title>Water Quality Symposium</title>
+		<date>October 13-14, 2015 </date>
+		<realDate>2015/10/14</realDate>
+		<location>Richmonde Hotel Ortigas, Sequoia Redwood Rm, 3rd Floor, San Miguel Ave, Pasig City</location>
+	</newsevent>
+	<newsevent>
+		<id>24</id>
+		<img>b</img>
+		<type>event</type>
+		<title>Kapisanang Kimika ng Pilipinas </title>
+		<date>Nov. 05 -06, 2015</date>
+		<realDate>2015/11/06</realDate>
+		<location>Makiling Hotel – Los Baños, Laguna</location>
+	</newsevent>
+	<newsevent>
+		<id>25</id>
+		<img>b</img>
+		<type>event</type>
+		<title>Mindanao Association of Water Districts (MWAD) Forum </title>
+		<date>Nov. 11 – 12, 2015</date>
+		<realDate>2015/11/12</realDate>
+		<location>Richmonde Hotel Ortigas, Sequoia Redwood Rm, 3rd Floor, San Miguel Ave, Pasig City</location>
+	</newsevent>
+	<newsevent>
+		<id>26</id>
+		<img>b</img>
+		<type>event</type>
+		<title>Maynilad Water Solutions Conference </title>
+		<date>Nov. 26-27, 2015</date>
+		<realDate>2015/11/27</realDate>
+		<location>Hotel Jen – Roxas Boulevard, Pasay City</location>
+	</newsevent>
+</newsevents>

@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<types>
+  <type>
+    <id>0</id>
+    <img>0</img>
+    <name>Atomic Absorption Spectrophotometers</name>
+    <short>AAS</short>
+  </type>
+  <type>
+    <id>1</id>
+    <img>1</img>
+    <name>Autoclaves</name>
+    <short>Autoclaves</short>
+  </type>
+  <type>
+    <id>2</id>
+    <img>2</img>
+    <name>Autotitrators</name>
+    <short>Autotitrators</short>
+  </type>
+  <type>
+    <id>3</id>
+    <img>3</img>
+    <name>Balances and Scales</name>
+    <short>Balances and Scales</short>
+  </type>
+  <type>
+    <id>4</id>
+    <img>4</img>
+    <name>Biosafety Cabinets</name>
+    <short>Biosafety Cabinets</short>
+  </type>
+  <type>
+    <id>5</id>
+    <img>5</img>
+    <name>Bomb Calorimeters</name>
+    <short>Bomb Calorimeters</short>
+  </type>
+  <type>
+    <id>6</id>
+    <img>6</img>
+    <name>Centrifuge Machine</name>
+    <short>Centrifuge Machine</short>
+  </type>
+  <type>
+    <id>7</id>
+    <img>7</img>
+    <name>Chemical</name>
+    <short>Chemical</short>
+  </type>
+  <type>
+    <id>8</id>
+    <img>8</img>
+    <name>Chromatography Consumables and Supplies</name>
+    <short>Chromatography</short>
+  </type>
+  <type>
+    <id>9</id>
+    <img>9</img>
+    <name>Coliform &amp; E. Coli Testers</name>
+    <short>Coliform &amp; E. Coli</short>
+  </type>
+  <type>
+    <id>10</id>
+    <img>10</img>
+    <name>Colorimeters</name>
+    <short>Colorimeters</short>
+  </type>
+  <type>
+    <id>11</id>
+    <img>11</img>
+    <name>Consumables</name>
+    <short>Consumables</short>
+  </type>
+  <type>
+    <id>12</id>
+    <img>12</img>
+    <name>Certified Reference Materials</name>
+    <short>CRMs</short>
+  </type>
+  <type>
+    <id>13</id>
+    <img>13</img>
+    <name>Crucible</name>
+    <short>Crucible</short>
+  </type>
+  <type>
+    <id>14</id>
+    <img>14</img>
+    <name>Discrete Analyzers</name>
+    <short>Discrete Analyzers</short>
+  </type>
+  <type>
+    <id>15</id>
+    <img>15</img>
+    <name>Distillation Apparatus</name>
+    <short>Distillation Apparatus</short>
+  </type>
+  <type>
+    <id>16</id>
+    <img>16</img>
+    <name>Electrochemistry Products</name>
+    <short>Electrochemistry</short>
+  </type>
+  <type>
+    <id>17</id>
+    <img>17</img>
+    <name>Elemental Analyzers</name>
+    <short>Elemental Analyzers</short>
+  </type>
+  <type>
+    <id>18</id>
+    <img>18</img>
+    <name>Flashpoint Testers</name>
+    <short>Flashpoint Testers</short>
+  </type>
+  <type>
+    <id>19</id>
+    <img>19</img>
+    <name>Fluxers</name>
+    <short>Fluxers</short>
+  </type>
+  <type>
+    <id>20</id>
+    <img>20</img>
+    <name>FoodLab Analyzers</name>
+    <short>FoodLab Analyzers</short>
+  </type>
+  <type>
+    <id>21</id>
+    <img>21</img>
+    <name>Fuel analyzer</name>
+    <short>Fuel analyzer</short>
+  </type>
+  <type>
+    <id>22</id>
+    <img>22</img>
+    <name>Furnaces</name>
+    <short>Furnaces</short>
+  </type>
+  <type>
+    <id>23</id>
+    <img>23</img>
+    <name>Fusion Machines</name>
+    <short>Fusion Machines</short>
+  </type>
+  <type>
+    <id>24</id>
+    <img>24</img>
+    <name>Heterotrophic Plate Count Testers</name>
+    <short>HPC Testers</short>
+  </type>
+  <type>
+    <id>25</id>
+    <img>25</img>
+    <name>Inductively Coupled Plasma – Optical Emission Spectrometry Instruments</name>
+    <short>ICP-OES Instrument</short>
+  </type>
+  <type>
+    <id>26</id>
+    <img>26</img>
+    <name>Incubators</name>
+    <short>Incubators</short>
+  </type>
+  <type>
+    <id>27</id>
+    <img>27</img>
+    <name>Kjeldahl Analyzers</name>
+    <short>Kjeldahl Analyzers</short>
+  </type>
+  <type>
+    <id>28</id>
+    <img>28</img>
+    <name>Luminometers</name>
+    <short>Luminometers</short>
+  </type>
+  <type>
+    <id>29</id>
+    <img>29</img>
+    <name>Microwave Digesters</name>
+    <short>Microwave Digesters</short>
+  </type>
+  <type>
+    <id>30</id>
+    <img>30</img>
+    <name>Milk Analyzer</name>
+    <short>Milk Analyzer</short>
+  </type>
+  <type>
+    <id>31</id>
+    <img>31</img>
+    <name>Mircrowave</name>
+    <short>Mircrowave</short>
+  </type>
+  <type>
+    <id>32</id>
+    <img>32</img>
+    <name>Mold</name>
+    <short>Mold</short>
+  </type>
+  <type>
+    <id>33</id>
+    <img>33</img>
+    <name>Near Infrared Analyzers</name>
+    <short>NIR Analyzers</short>
+  </type>
+  <type>
+    <id>34</id>
+    <img>34</img>
+    <name>On-line Analyzers</name>
+    <short>On-line Analyzers</short>
+  </type>
+  <type>
+    <id>35</id>
+    <img>35</img>
+    <name>Oxidation Stability Analyzers</name>
+    <short>Oxidation Stability</short>
+  </type>
+  <type>
+    <id>36</id>
+    <img>36</img>
+    <name>Particle Size Analyzer</name>
+    <short>Particle Size Analyzer</short>
+  </type>
+  <type>
+    <id>37</id>
+    <img>37</img>
+    <name>Penetrometers</name>
+    <short>Penetrometers</short>
+  </type>
+  <type>
+    <id>38</id>
+    <img>38</img>
+    <name>Petroleum</name>
+    <short>Petroleum</short>
+  </type>
+  <type>
+    <id>39</id>
+    <img>39</img>
+    <name>Automated Photometric Analyzer</name>
+    <short>Photometric Analyzer</short>
+  </type>
+  <type>
+    <id>40</id>
+    <img>40</img>
+    <name>Material Testing for Polymers</name>
+    <short>Polymers</short>
+  </type>
+  <type>
+    <id>41</id>
+    <img>41</img>
+    <name>Portable Distillation Apparatuses</name>
+    <short>Portable Distillation</short>
+  </type>
+  <type>
+    <id>42</id>
+    <img>42</img>
+    <name>Portable Flashpoint Testers</name>
+    <short>Portable Flashpoint</short>
+  </type>
+  <type>
+    <id>43</id>
+    <img>43</img>
+    <name>Portable Fuel Analyzer</name>
+    <short>Portable Fuel Analyzer</short>
+  </type>
+  <type>
+    <id>44</id>
+    <img>44</img>
+    <name>Portable Heavy Metal Analyzers</name>
+    <short>Portable Heavy Metal</short>
+  </type>
+  <type>
+    <id>45</id>
+    <img>45</img>
+    <name>Portable Vapor Pressure Analyzers</name>
+    <short>Portable Vapor</short>
+  </type>
+  <type>
+    <id>46</id>
+    <img>46</img>
+    <name>Portable Water Analyzers</name>
+    <short>Portable Water</short>
+  </type>
+  <type>
+    <id>47</id>
+    <img>47</img>
+    <name>Portable XRF Analyzers</name>
+    <short>Portable XRF Analyzers</short>
+  </type>
+  <type>
+    <id>48</id>
+    <img>48</img>
+    <name>Automated Sample Preparation Systems</name>
+    <short>Preparation Systems</short>
+  </type>
+  <type>
+    <id>49</id>
+    <img>49</img>
+    <name>Proficiency Testings</name>
+    <short>Proficiency Testings</short>
+  </type>
+  <type>
+    <id>50</id>
+    <img>50</img>
+    <name>PWplus Weighing Scales</name>
+    <short>PWplus Weighing Scales</short>
+  </type>
+  <type>
+    <id>51</id>
+    <img>51</img>
+    <name>Rheometer</name>
+    <short>Rheometer</short>
+  </type>
+  <type>
+    <id>52</id>
+    <img>52</img>
+    <name>Safety &amp; Security Devices</name>
+    <short>Safety &amp; Security</short>
+  </type>
+  <type>
+    <id>53</id>
+    <img>53</img>
+    <name>Sample Cups</name>
+    <short>Sample Cups</short>
+  </type>
+  <type>
+    <id>54</id>
+    <img>54</img>
+    <name>Spectrophotometers</name>
+    <short>Spectrophotometers</short>
+  </type>
+  <type>
+    <id>55</id>
+    <img>55</img>
+    <name>Thin Film</name>
+    <short>Thin Film</short>
+  </type>
+  <type>
+    <id>56</id>
+    <img>56</img>
+    <name>Total Organic Carbon Analyzers</name>
+    <short>TOC Analyzer</short>
+  </type>
+  <type>
+    <id>57</id>
+    <img>57</img>
+    <name>Turbidimeters</name>
+    <short>Turbidimeters</short>
+  </type>
+  <type>
+    <id>58</id>
+    <img>58</img>
+    <name>UTM</name>
+    <short>UTM</short>
+  </type>
+  <type>
+    <id>59</id>
+    <img>59</img>
+    <name>Ultraviolet-Visible Spectrophotometers</name>
+    <short>UV-Vis Spectrophotomet</short>
+  </type>
+  <type>
+    <id>60</id>
+    <img>60</img>
+    <name>Viscometers</name>
+    <short>Viscometers</short>
+  </type>
+  <type>
+    <id>61</id>
+    <img>61</img>
+    <name>Online Vapor Pressure</name>
+    <short>VPSO</short>
+  </type>
+  <type>
+    <id>62</id>
+    <img>62</img>
+    <name>Benchtop XRF Analyzer</name>
+    <short>Benchtop XRF Analyzer</short>
+  </type>
+  <type>
+    <id>63</id>
+    <img>63</img>
+    <name>Portable Optical Emission Spectroscopy</name>
+    <short>Emission Spectroscopy&#13;
+</short>
+  </type>
+  <type>
+    <id>64</id>
+    <img>64</img>
+    <name>weafawef</name>
+    <short>awefawef</short>
+  </type>
+  <type>
+    <id>65</id>
+    <img>65</img>
+    <name>awefawefaw</name>
+    <short>awefawefawef</short>
+  </type>
+</types>

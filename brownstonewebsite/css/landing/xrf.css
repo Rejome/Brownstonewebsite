@@ -1,0 +1,198 @@
+@CHARSET "UTF-8";
+
+#xrf_page {
+	background-image: url('../../images/pattern-yz67.png');
+	overflow-x: hidden;
+}
+
+.xrf_container {
+	display: block;
+	width: 940px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+#xrf_header, #xrf_footer {
+	text-align: center;
+	color: lightgray;
+	padding-bottom: 10px;
+}
+
+#xrf_footer {
+	padding-top: 10px;
+}
+
+#xrf_footer p {
+	margin: 2px;
+}
+
+#xrf_header a, #xrf_footer a {
+	color: yellow;
+	text-decoration: none;
+}
+
+#xrf_main {
+	background: white;
+	padding: 10px;
+	height: 700px;
+	border-radius: 15px;
+}
+
+.xrf_full {
+	width: 780px;
+}
+
+#xrf_title {
+	width: 100%;
+	padding: 10px 10px 20px 50px;
+}
+
+#xrf_title h1 {
+	display: inline;
+	position: relative;
+	top: -0.8em;
+	left: 0.3em;
+	font-family: verdana;
+	font-size: 2.5em;
+	font-weight: bold;
+	vertical-align: middle;
+}
+
+#logo {
+	height: 4em;	
+}
+
+.xrf_cell4, .xrf_cell3, .xrf_cell2, .xrf_cell {
+	float: left;
+}
+
+.xrf_cell4 {
+	width: 400px;	
+}
+
+.xrf_cell3 {
+	width: 300px;	
+}
+
+.xrf_cell2 {
+	width: 200px;	
+}
+
+.xrf_cell {
+	width: 100px;	
+}
+
+#xrf_holster {
+	position: absolute;
+	top: 0px;
+	left: 650px;
+	overflow: hidden;
+	height: 700px;
+	pointer-events: none;
+}
+
+#xrf_gun {
+	position: relative;
+	top: 160px;
+	left: 500px;
+	-webkit-transition: left 2s, top 1s; /* For Safari 3.1 to 6.0 */
+	transition: left 2s, top 1s;
+}
+
+#xrf_applications {
+	padding-left: 20px;	
+	width: 320px;
+}
+
+.xrf_crop {
+	width: 125px;
+    height: 75px;
+    overflow: hidden;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    -webkit-transition: width 0.5s, height 0.5s; /* For Safari 3.1 to 6.0 */
+	transition: width 0.5s, height 0.5s;
+}
+
+.xrf_crop span {
+	font-family: verdana;
+	font-weight: bold;
+	color: yellow;
+	position: relative;
+	top: -60px;
+	left: 10px;	
+	text-shadow: 0px 1px 5px black;
+	pointer-events: none;
+}
+
+.xrf_crop:hover {
+	width: 140px;
+	height: 100px;
+}
+
+#xrf_applications img {
+	height: 120px;
+    margin: -10px 0 0 -10px;
+}
+
+.xrf_scroller {
+	position: relative;
+	top: 0px;
+	background: white;
+	z-index: 10;
+}
+
+#xrf_text {
+	width: 500px;	
+}
+
+.xrf_text {
+	height: 300px;
+	overflow: hidden;
+	font-family: sans-serif;
+	text-shadow: 0px 1px 2px black;
+	color: white;
+	display: none;
+}
+
+.xrf_textbox {
+	background: rgba(0,0,0,0.4);	
+	padding: 10px;
+	height: 100%;
+}
+
+#xrf_text_default {
+	background-image: url('../../images/landing/xrf/niton_mine.jpg');
+	background-position: 30% 10%;	
+}
+
+#xrf_text_fab {
+	background-image: url('../../images/landing/xrf/niton_factory.jpg');
+	background-position: 0% 40%;
+	background-repeat: no-repeat;
+}
+
+#xrf_text_gold {
+	background-image: url('../../images/landing/xrf/niton_jewelry.jpg');
+	background-position: 0% 60%;
+}
+
+#xrf_text_mine {
+	background-image: url('../../images/landing/xrf/niton_exploration.jpg');
+	background-position: 0% 90%;
+}
+
+#xrf_text_pmi {
+	background-image: url('../../images/landing/xrf/niton_petrochem.jpg');
+	background-position: 0% 30%;
+}
+
+#xrf_text_rohs {
+	background-image: url('../../images/landing/xrf/niton_toys.jpg');
+	background-position: 0% 30%;
+}
+
+#xrf_text_scrap {
+	background-image: url('../../images/landing/xrf/niton_scrap.jpg');
+	background-position: 0% 30%;
+}

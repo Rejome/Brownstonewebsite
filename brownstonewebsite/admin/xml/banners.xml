@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<banners>
+  <banner>
+    <id>0</id>
+    <img>0</img>
+    <cid>all</cid>
+    <banner>Automatic Distillation Unit</banner>
+    <category>Banner</category>
+  </banner>
+  <banner>
+    <id>1</id>
+    <img>1</img>
+    <cid>all</cid>
+    <banner>MINIDIS ADXpert</banner>
+    <category>Banner</category>
+  </banner>
+  <banner>
+    <id>2</id>
+    <img>2</img>
+    <cid>all</cid>
+    <banner>Advanced Isothermal (Dry Method) Bomb Calorimeters</banner>
+    <category>Banner</category>
+  </banner>
+  <banner>
+    <id>3</id>
+    <img>3</img>
+    <cid>all</cid>
+    <banner>Cleveland Flash &amp; Fire Point Tester: CLA 5</banner>
+    <category>Banner</category>
+  </banner>
+  <banner>
+    <id>4</id>
+    <img>4</img>
+    <cid>all</cid>
+    <banner>Colilert-18</banner>
+    <category>Banner</category>
+  </banner>
+  <banner>
+    <id>5</id>
+    <img>5</img>
+    <cid>all</cid>
+    <banner>ContrAA</banner>
+    <category>Banner</category>
+  </banner>
+  <banner>
+    <id>6</id>
+    <img>6</img>
+    <cid>all</cid>
+    <banner>Niton DXL Precious Metal Analyzer</banner>
+    <category>Banner</category>
+  </banner>
+  <banner>
+    <id>7</id>
+    <img>7</img>
+    <cid>all</cid>
+    <banner>Multi EA 5000</banner>
+    <category>Banner</category>
+  </banner>
+  <banner>
+    <id>8</id>
+    <img>8</img>
+    <cid>all</cid>
+    <banner>Enterolert</banner>
+    <category>Banner</category>
+  </banner>
+  <banner>
+    <id>9</id>
+    <img>9</img>
+    <cid>all</cid>
+    <banner>Niton FXL Field X-ray Lab</banner>
+    <category>Banner</category>
+  </banner>
+  <banner>
+    <id>10</id>
+    <img>10</img>
+    <cid>all</cid>
+    <banner>MINISCAN IRXpert</banner>
+    <category>Banner</category>
+  </banner>
+  <banner>
+    <id>11</id>
+    <img>11</img>
+    <cid>all</cid>
+    <banner>LS 13 320 series</banner>
+    <category>Banner</category>
+  </banner>
+  <banner>
+    <id>12</id>
+    <img>12</img>
+    <cid>all</cid>
+    <banner>MCR The Modular Compact Rheometer Series</banner>
+    <category>Banner</category>
+  </banner>
+  <banner>
+    <id>13</id>
+    <img>13</img>
+    <cid>all</cid>
+    <banner>Micro-Snap</banner>
+    <category>Banner</category>
+  </banner>
+  <banner>
+    <id>14</id>
+    <img>14</img>
+    <cid>all</cid>
+    <banner>Miniflash Touch</banner>
+    <category>Banner</category>
+  </banner>
+  <banner>
+    <id>15</id>
+    <img>15</img>
+    <cid>all</cid>
+    <banner>Multi N/C</banner>
+    <category>Banner</category>
+  </banner>
+  <banner>
+    <id>16</id>
+    <img>16</img>
+    <cid>all</cid>
+    <banner>Multiwave GO</banner>
+    <category>Banner</category>
+  </banner>
+  <banner>
+    <id>17</id>
+    <img>17</img>
+    <cid>all</cid>
+    <banner>Oxidation Stability Tester</banner>
+    <category>Banner</category>
+  </banner>
+  <banner>
+    <id>18</id>
+    <img>18</img>
+    <cid>all</cid>
+    <banner>PMA 5 Pensky- Martens Flash Point Tester</banner>
+    <category>Banner</category>
+  </banner>
+  <banner>
+    <id>19</id>
+    <img>19</img>
+    <cid>all</cid>
+    <banner>ZEEnit P series</banner>
+    <category>Banner</category>
+  </banner>
+  <banner>
+    <id>20</id>
+    <img>20</img>
+    <cid>all</cid>
+    <banner>Pseudalert</banner>
+    <category>Banner</category>
+  </banner>
+  <banner>
+    <id>21</id>
+    <img>21</img>
+    <cid>all</cid>
+    <banner>SimPlate for HPC</banner>
+    <category>Banner</category>
+  </banner>
+  <banner>
+    <id>22</id>
+    <img>22</img>
+    <cid>all</cid>
+    <banner>My SPECORD</banner>
+    <category>Banner</category>
+  </banner>
+  <banner>
+    <id>23</id>
+    <img>23</img>
+    <cid>all</cid>
+    <banner>Trace20</banner>
+    <category>Banner</category>
+  </banner>
+  <banner>
+    <id>24</id>
+    <img>24</img>
+    <cid>all</cid>
+    <banner>Trace 1300 Series Gas Chromatography</banner>
+    <category>Banner</category>
+  </banner>
+  <banner>
+    <id>25</id>
+    <img>25</img>
+    <cid>all</cid>
+    <banner>INSTRON</banner>
+    <category>Banner</category>
+  </banner>
+  <banner>
+    <id>26</id>
+    <img>26</img>
+    <cid>all</cid>
+    <banner>MINIVAP VPXpert</banner>
+    <category>Banner</category>
+  </banner>
+  <banner>
+    <id>27</id>
+    <img>27</img>
+    <cid>all</cid>
+    <banner>Niton XL2 GOLDD XRF Analyzer</banner>
+    <category>Banner</category>
+  </banner>
+  <banner>
+    <id>28</id>
+    <img>28</img>
+    <cid>all</cid>
+    <banner>Niton XL2 100G XRF Analyzer</banner>
+    <category>Banner</category>
+  </banner>
+  <banner>
+    <id>29</id>
+    <img>29</img>
+    <cid>all</cid>
+    <banner>Niton XL3t GOLDD+ XRF Analyzer</banner>
+    <category>Banner</category>
+  </banner>
+</banners>
